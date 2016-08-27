@@ -1,4 +1,3 @@
-
 # following two functions 1)makeCacheMatrix 2)cacheSolve are used to cache the inverse of a matrix.
 
 # makeCacheMatrix:function creates a special "matrix" object that can cache its inverse.
